@@ -1,4 +1,4 @@
 # hello-world
 this is my first project for learning GitHub.
-Hi,everybody.I have become a Java programmer.This is a Pleasing thing.
-But I have to keep going in this field.
+Hi,everybody.Becoming a Java programmer is a beginning. This is a pleasure thing.
+Otherwise I have to keep going in this field.
